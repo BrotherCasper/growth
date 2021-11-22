@@ -10,3 +10,4 @@ A brief overview of how you should write functions:
   that will reduce cognitive load on the reader and increase maintainability of the function moving forward. 
 - A function should not have any side effects.
 - Functions should either do something or answer something but never both.
+- Don't repeat yourself
